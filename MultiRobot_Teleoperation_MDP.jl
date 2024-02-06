@@ -1,5 +1,4 @@
-# Model of POMDP version of the toy example with mutual-trust thing (UPDATED: Version 2.0)
-# For more info about version 2.0, see MyNotes for March 11, 2019
+# Model of POMDP version of the toy example (UPDATED: Version 2.0)
 
 include("SingleRobot_Teleoperation_MDP.jl")
 
