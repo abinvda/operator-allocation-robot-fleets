@@ -1,4 +1,4 @@
-# Model of POMDP version of the toy example (UPDATED: Version 2.0)
+# Model of multi-robot version of the problem (UPDATED: Version 2.0)
 
 include("SingleRobot_Teleoperation_MDP.jl")
 
