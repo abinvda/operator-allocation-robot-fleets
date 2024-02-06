@@ -56,7 +56,7 @@ end
 outer_itr = 100 
 
 max_robots = 60
-for n_opr in [2] # Total number of operators
+for n_opr in [1,2,3,5] # Total number of operators
     tick()
     # Initialize variables for storing results for each condition (number of robots) under each policy
     all_averageCosts = zeros(max_robots, 6)
